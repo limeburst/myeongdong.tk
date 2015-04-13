@@ -1,0 +1,51 @@
+body {
+    background-color: #4a525a;
+    color: #eee;
+    margin: 0 auto;
+    max-width: 640px;
+}
+
+h1, h2, h3, span {
+    font-family: "Leckerli One";
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+span {
+    font-size: 1.5em;
+    margin-top: -1.5em;
+    float: right;
+}
+
+p {
+    font-family: "Noto Sans";
+}
+
+header {
+    margin: 5em auto;
+}
+
+video, iframe {
+    max-width: 100%;
+    display: block;
+}
+
+img, iframe {
+    max-width: 100%;
+    text-align: center;
+    display: block;
+    margin: 1em auto;
+}
+
+footer {
+    margin-top: 2em;
+    font-style: italic;
+    text-align: center;
+}
+
+a, a:visited {
+    color: white;
+}
